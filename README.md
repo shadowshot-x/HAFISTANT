@@ -15,7 +15,7 @@ These are currently "STATIC".
 4. "Reset Reminders" : All of your Reminders are cleared and you can start from the beginning.
 
 ## Try it Yourself
-[TRY IT YOURSELF](https://hafistant.netlify.app/)
+[NETLIFY HAFISTANT](https://hafistant.netlify.app/)
 
 ## Video Below
 [![Thumbnail](https://img.youtube.com/vi/H-M6rFMxidw/0.jpg)](https://www.youtube.com/watch?v=H-M6rFMxidw)
