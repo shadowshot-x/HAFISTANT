@@ -19,7 +19,7 @@ These are currently "STATIC".
 
 
 ## Screenshots Below
-![Home Page](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots Screenshot%20from%202021-02-21%2017-55-59.png)
+![Home Page](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots/Screenshot%20from%202021-02-21%2017-55-59.png)
 ![Voice Control](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots/Screenshot%20from%202021-02-21%2017-56-50.png)
 ![Commands](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots/Screenshot%20from%202021-02-21%2017-56-54.png)
 ![Object Detection Demo 1](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots/Screenshot%20from%202021-02-21%2017-58-44.png)
