@@ -13,3 +13,9 @@ These are currently "STATIC".
 3. "Read out Reminders" : Assistant reads out Reminders that you have saved.
 
 4. "Reset Reminders" : All of your Reminders are cleared and you can start from the beginning.
+
+![Home Page](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots Screenshot%20from%202021-02-21%2017-55-59.png)
+![Voice Control](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots/Screenshot%20from%202021-02-21%2017-56-50.png)
+![Commands](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots/Screenshot%20from%202021-02-21%2017-56-54.png)
+![Object Detection Demo 1](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots/Screenshot%20from%202021-02-21%2017-58-44.png)
+![Object Detection Demo 2](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots/Screenshot%20from%202021-02-21%2017-59-06.png)
