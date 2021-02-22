@@ -14,6 +14,11 @@ These are currently "STATIC".
 
 4. "Reset Reminders" : All of your Reminders are cleared and you can start from the beginning.
 
+## Video Below
+[![Thumbnail](https://img.youtube.com/vi/H-M6rFMxidw/0.jpg)](https://www.youtube.com/watch?v=H-M6rFMxidw)
+
+
+## Screenshots Below
 ![Home Page](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots Screenshot%20from%202021-02-21%2017-55-59.png)
 ![Voice Control](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots/Screenshot%20from%202021-02-21%2017-56-50.png)
 ![Commands](https://raw.githubusercontent.com/shadowshot-x/HAFISTANT/master/screenshots/Screenshot%20from%202021-02-21%2017-56-54.png)
